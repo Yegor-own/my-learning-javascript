@@ -27,4 +27,4 @@ ladder
   .down()     // -1
   .up()       // 0
   .up()       // 1
-  .showStep() // 1
+  .showStep() // 1 
